@@ -70,7 +70,7 @@ while True:
      computer =random.randrange(0,4)
      print("Computer chooses ",number_to_choice_name(computer))
      print(game(player,computer),"\n")
-     print("Next loop, or Ctrl+c to quit\n")
+     
 
 
 
